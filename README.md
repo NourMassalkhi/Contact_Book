@@ -1,5 +1,6 @@
 In this project, I focused on building the application using a simple and clear approach to make sure I fully understand each part of the system rather than relying
 on complex patterns or external libraries.
+
 Models (models.py)
 I used a Contact class to represent each contact. It includes basic attributes such as name, phone, email, group andd added. I also used helper methods like
 to_dict() and from_dict() to easily convert between objects and JSON format for storage.
