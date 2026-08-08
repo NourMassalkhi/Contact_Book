@@ -26,7 +26,7 @@ I implemented input validation manually to ensure correct data entry.This includ
 ->validating phone numbers  
 Here for email and phone validation, I used regular expressions to ensure the format is correct.
 
-#Sorting & Searching
+Sorting & Searching
 Contacts are sorted using Python’s built-in sorted() function based on last name then first name. Searching is implemented using case-insensitive partial matching 
 across name, phone, and email fields.
 
