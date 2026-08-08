@@ -1,0 +1,34 @@
+[
+    {
+        "id": "1",
+        "name": "Nour Massalkhi",
+        "phone": "81769033",
+        "email": "nour@gmail.com",
+        "group": "Friends",
+        "added": "6-8-2026 1:13AM"
+    },
+    {
+        "id": "2",
+        "name": "Aya Massalkhi",
+        "phone": "71456321",
+        "email": "ayamassalkhi@gmail.com",
+        "group": "family",
+        "added": "7-8-2026 12:13AM"
+    },
+    {
+        "id": "3",
+        "name": "Maya Mousa",
+        "phone": "81543987",
+        "email": "mayamousa@gmail.com",
+        "group": "Friends",
+        "added": "7-8-2026 7:19 PM"
+    },
+    {
+        "id": "5",
+        "name": "Zeinab Atat",
+        "phone": "71234657",
+        "email": "zeinabatat@gmail.com",
+        "group": "Family",
+        "added": "7-8-2026 7:53 PM"
+    }
+]
